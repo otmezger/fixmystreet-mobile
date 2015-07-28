@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.mysociety.FixMyStreet" android-versionCode="41" version="2.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>FixMyStreet</name>
+<widget id="org.mysociety.FixMyStreet" android-versionCode="42" version="2.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MakeMyIsland</name>
     <description>
-        Report problems on FixMyStreet
+        Report problems on MakeMyIsland
     </description>
 
     <author href="http://mysociety.org" email="team@mysociety.org">
@@ -21,7 +21,11 @@
     <access origin="ecn.t2.tiles.virtualearth.net"/>
     <access origin="ecn.t3.tiles.virtualearth.net"/>
     <access origin="mapit.mysociety.org"/>
+    <access origin="international.mapit.mysociety.org"/>
     <access origin="www.fixmystreet.com"/>
+    <access origin="makemyisland.davea.me"/>
+    <access origin="www.makemyisland.mv"/>
+    <access origin="makemyisland.staging.mysociety.org"/>
 
     <preference name="android-minSdkVersion" value="16" />
     <preference name="orientation" value="portrait" />
