@@ -7,5 +7,5 @@ var CONFIG = {
     NAMESPACE: 'fixmystreet',
     FILES_DIR: 'fixmystreet_photos',
     ACCURACY: 750,
-    // isUK: 1 // doesn't seem to be used
+    isUK: 0
 };
